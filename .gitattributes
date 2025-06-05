@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.blend filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+lakeside_night_4k.exr filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]snowy_mountain_landscape.glb filter=lfs diff=lfs merge=lfs -text
+snowy_mountain_landscape.glb filter=lfs diff=lfs merge=lfs -text
+Mustang[[:space:]]Anim.blend1 filter=lfs diff=lfs merge=lfs -text
