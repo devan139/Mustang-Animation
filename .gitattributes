@@ -1,5 +1,6 @@
 .blend filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
+MustangAnim.blend filter=lfs diff=lfs merge=lfs -text
 lakeside_night_4k.exr filter=lfs diff=lfs merge=lfs -text
 File[[:space:]]snowy_mountain_landscape.glb filter=lfs diff=lfs merge=lfs -text
 snowy_mountain_landscape.glb filter=lfs diff=lfs merge=lfs -text
